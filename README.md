@@ -17,29 +17,29 @@ Kill monsters! Get stronger! Buy powerful items! Find the dungeon keys! Solve th
 
 ## Game Mechanics
 
-Guard     
+<h3> Guard </h3> 
 * You block half the damage!
  
-Parry     
+<h3> Parry </h3>    
 * If you guard in 200 milliseconds before monster's attack, you parry attack!</br > 
 Then you get critical chance for 1 seconds. Critical hits give x2 damage.
 
-Ninja     
+<h3> Ninja </h3>    
 * You can cut projectiles with your weapon. But be careful, you have to set the timing well.
   
-Survivor  
+<h3> Survivor </h3> 
 *  Some of trees, some of walls can be destructible. Choose your weapons intelligently!
 
-Pool      
+<h3> Pool </h3>     
 *  You can restore yourself, save your progress. But monsters will spawn again.
   
-Coin      
+<h3> Coin </h3>     
 * Find the merchant, buy stronger items!
 
-Tent      
+<h3> Tent </h3>     
 * You sleep until next day.
  
-Lantern   
+<h3> Lantern </h3>  
 *  When it gets dark you will realize lantern's importance.
 
  

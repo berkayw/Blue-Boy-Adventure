@@ -42,7 +42,7 @@ Then you get critical chance for 1 seconds. Critical hits give x2 damage.
 
 ![npctalk](https://user-images.githubusercontent.com/72252419/210121262-8d547a5a-8d35-4751-b01d-a8096f382086.png)
 
-</br > 
+</br > </br > 
 
 ![healing pool](https://user-images.githubusercontent.com/72252419/210121379-8e4f7b78-bcbb-4d1a-a3f6-13b26e62e873.png)
 

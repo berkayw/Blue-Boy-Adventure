@@ -1,13 +1,33 @@
 # Blue Boy Adventure
 ## JAVA 2D RPG  GAME
 
+
 ## Goal
 
 Kill monsters! Get stronger! Buy powerful items! Find the dungeon keys! Solve the dungeon puzzle! KILL THE BOSS!
 
-## Controls and Game Mechanics
+
+## Controls
+
 
 ![BlueBoy Key Bindings](https://user-images.githubusercontent.com/72252419/210120664-1d54d2c5-d4eb-4892-8b67-d9acfd206113.jpg)
+
+
+## Game Mechanics
+
+* Guard: You block half the damage!
+
+* Parry: If you guard in 200 milliseconds before monster's attack, you parry attack!
+Then you get critical chance for 1 seconds. Critical hits give x2 damage.
+
+* Cutting Projectiles: You can cut projectiles with your weapon. But be careful, you have to set the timing well. 
+
+* Interactive Tiles: Some of trees, some of walls can be destructible. Choose your weapons intelligently!
+
+* Healing Pool: You can restore yourself, save your progress. But monsters will spawn again.
+
+* Coin: Find the merchant, buy stronger items!
+
 
 
 

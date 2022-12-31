@@ -21,12 +21,14 @@ Guard     :
 * You block half the damage!
 
 Parry     : 
-*If you guard in 200 milliseconds before monster's attack, you parry attack!</br > 
+* If you guard in 200 milliseconds before monster's attack, you parry attack!</br > 
 Then you get critical chance for 1 seconds. Critical hits give x2 damage.
 
-* Ninja     : You can cut projectiles with your weapon. But be careful, you have to set the timing well. 
+Ninja     : 
+* You can cut projectiles with your weapon. But be careful, you have to set the timing well. 
 
-* Survivor  : Some of trees, some of walls can be destructible. Choose your weapons intelligently!
+Survivor  :
+*  Some of trees, some of walls can be destructible. Choose your weapons intelligently!
 
 * Pool      : You can restore yourself, save your progress. But monsters will spawn again.
 

@@ -154,3 +154,6 @@ Then you get critical chance for 1 seconds. Critical hits give x2 damage.
 </br > 
 
 ## Special Thanks
+
+The tutorial and all of assets are from RyiSnow.
+Check RyiSnow Youtube Channel.<a href="https://www.youtube.com/@RyiSnow"><p>Check RyiSnow Youtube Channel</p></a>

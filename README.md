@@ -1,6 +1,6 @@
 # Blue Boy Adventure
 
-<h3> JAVA 2D ACTION RPG GAME </h3> 
+<h3> JAVA 2D ACTION RPG </h3> 
 
 ## Installation
 * Download ZIP and Extract "Blue-Boy-Adventure-master" to Desktop.

@@ -30,6 +30,10 @@ Then you get critical chance for 1 seconds. Critical hits give x2 damage.
 
 * Coin      : Find the merchant, buy stronger items!
 
+* Tent      : You sleep until next day.
+
+* Lantern   : When it gets dark you will realize lantern's importance.
+
 </br > 
 
 ## Screenshots

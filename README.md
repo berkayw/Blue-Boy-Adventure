@@ -48,7 +48,7 @@ Then you get critical chance for 1 seconds. Critical hits give x2 damage.
  
 <h3> Lantern </h3>  
 
-*  When it gets dark you will realize  how important lantern is.
+*  When it gets dark you will realize how important lantern is.
 
 </br > 
 

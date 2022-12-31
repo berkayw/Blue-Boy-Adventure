@@ -2,6 +2,13 @@
 
 <h3> JAVA 2D RPG  GAME </h3> 
 
+## Installation
+* Download ZIP and Extract "Blue-Boy-Adventure-master" to Desktop.
+
+* Open IntelliJ IDEA and Select Open Project.
+
+* Choose "Blue-Boy-Adventure-master" folder and Select "Yes" to ReUse Module Files.
+
 </br > 
 
 ## Goal

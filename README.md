@@ -49,7 +49,7 @@ Then you get critical chance for 1 seconds. Critical hits give x2 damage.
 
 <h3> Pool </h3>  
 
-*  You can restore yourself, save your progress. But monsters will spawn again.
+*  You can recover your life/mana and save your progress. But monsters will spawn again.
   
 <h3> Coin </h3>  
 

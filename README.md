@@ -9,6 +9,8 @@
 
 * Choose "Blue-Boy-Adventure-master" folder and Select "Yes" to ReUse Module Files.
 
+* Go src -> main folder -> Run Main
+
 * Lastly don't forget to Setup SDK if needed.
 
 </br > 

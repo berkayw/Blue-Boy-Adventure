@@ -1,6 +1,6 @@
 # Blue Boy Adventure
 
-<h2> JAVA 2D RPG  GAME </h2> 
+<h3> JAVA 2D RPG  GAME </h3> 
 
 ## Goal
 Kill monsters! Get stronger! Buy powerful items! Find the dungeon keys! Solve the dungeon puzzle! KILL THE BOSS!

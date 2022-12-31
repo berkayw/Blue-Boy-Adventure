@@ -13,6 +13,8 @@ Kill monsters! Get stronger! Buy powerful items! Find the dungeon keys! Solve th
 
 ![BlueBoy Key Bindings](https://user-images.githubusercontent.com/72252419/210120664-1d54d2c5-d4eb-4892-8b67-d9acfd206113.jpg)
 
+</br > 
+
 ## Game Mechanics
 
 * Guard     : You block half the damage!
@@ -28,11 +30,14 @@ Then you get critical chance for 1 seconds. Critical hits give x2 damage.
 
 * Coin      : Find the merchant, buy stronger items!
 
-
+</br > 
 
 ## Screenshots
 
+</br > 
 
+
+</br > 
 
 ## Followed Steps
 1.  Mechanism of Game (GamePanel, Window, Thread...)
@@ -93,4 +98,6 @@ Then you get critical chance for 1 seconds. Critical hits give x2 damage.
 56. Boss Battle Cutscene
 57. Ending Cutscene
 
+</br > 
 
+## Special Thanks

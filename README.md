@@ -17,7 +17,7 @@ Kill monsters! Get stronger! Buy powerful items! Find the dungeon keys! Solve th
 
 ## Game Mechanics
 
-* Guard     : You block half the damage!
+* Guard   &nbsp;  : You block half the damage!
 
 * Parry     : If you guard in 200 milliseconds before monster's attack, you parry attack!</br > 
 Then you get critical chance for 1 seconds. Critical hits give x2 damage.

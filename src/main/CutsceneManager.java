@@ -33,6 +33,7 @@ public class CutsceneManager {
                 + "Berkayw"
                 + "\n\n\n\n\n\n\n\n\n\n\n"
                 + "Special Thanks\n\n"
+                + "Alperen Aksu\n"
                 + "Ryi Snow\n\n"
                 + "Check his tutorials from RyiSnow YouTube Channel!\n"
                 + "\n\n\n\n\n\n\n"
